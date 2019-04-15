@@ -16,7 +16,7 @@
 
 <h2>How to contribute?</h2>
 
-Have a look at the [README](readme.md) for contribution guideline.
+Have a look at the [README](README.md) for contribution guideline.
 
 
 
