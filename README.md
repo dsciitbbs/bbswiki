@@ -1,2 +1,2 @@
 # bbswiki
-Only online wiki of IIT Bhubaneswar
+Only online wiki of IIT Bhubaneswar.
