@@ -1,3 +1,5 @@
+[Back to Home](/index.md)
+
 ## Subarnarekha Hall of Residence
 
 #### Facilities:
