@@ -1,3 +1,5 @@
+[Back to Home](../index.md)
+
 ## Halls of Residence
 
 * [Mahanadi Hall of Residence](/misc/halls_of_residence/mhr.md)
