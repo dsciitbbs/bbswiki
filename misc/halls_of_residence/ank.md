@@ -14,6 +14,6 @@
 * Washing Machine Facility
 * ATM facility within 5 min walking distance
 
-#### Contact Numbers: ( To be Added )
-
 ![alt text](/misc/pics/ank.jpg)
+
+#### Contact Numbers: ( To be Added )
