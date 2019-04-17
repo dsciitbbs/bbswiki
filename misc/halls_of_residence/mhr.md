@@ -1,3 +1,5 @@
+[Back to Home](/index.md)
+
 ## Mahanadi Hall of Residence
 
 #### Facilities:
