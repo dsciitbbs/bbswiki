@@ -19,6 +19,6 @@
 * Washing Machine Facility
 * Computer Room,Music Room
 
-#### Contact Numbers : ( To be Added 
-
 ![alt text](/misc/pics/mhr.jpg)
+
+#### Contact Numbers : ( To be Added )
