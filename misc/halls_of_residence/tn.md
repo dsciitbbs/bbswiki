@@ -17,6 +17,6 @@
 * Water purifiers cum coolers
 * Washing Machine Facility
 
-#### Contact Numbers: ( To be Added )
-
 ![alt text](misc/pics/tn.jpg)
+
+#### Contact Numbers: ( To be Added )
