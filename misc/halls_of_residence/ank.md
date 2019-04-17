@@ -1,3 +1,5 @@
+[Back to Home](/index.md)
+
 ## Dr. A.N. Khosla Hall of Residence
 
 #### Facilities:
