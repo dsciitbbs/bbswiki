@@ -1,4 +1,4 @@
-[Back to Home](/index.md)
+[Back to Home](../../index.md)
 
 ## Dr. A.N. Khosla Hall of Residence
 
@@ -16,6 +16,6 @@
 * Washing Machine Facility
 * ATM facility within 5 min walking distance
 
-![alt text](/misc/pics/ank.jpg)
+![alt text](../pics/ank.jpg)
 
 #### Contact Numbers: ( To be Added )
