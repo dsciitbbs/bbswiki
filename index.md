@@ -9,7 +9,7 @@
 
 <h4 align="center">Open source, community managed wiki of IIT Bhubaneswar.</h4>
 
-[Phonebook](misc/phonebook.md) | [Academics]() | [Societies and Clubs]() | [Fests]() | [Hall of Residence]() | [How to Guides]() 
+[Phonebook](misc/phonebook.md) | [Academics]() | [Societies and Clubs]() | [Fests]() | [Hall of Residence](misc/halls_of_residence/halls.md) | [How to Guides]() 
 <h2> Featured articles </h2>
 
 - To be added here.
