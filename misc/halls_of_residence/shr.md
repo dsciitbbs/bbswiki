@@ -1,4 +1,4 @@
-[Back to Home](/index.md)
+[Back to Home](../../index.md)
 
 ## Subarnarekha Hall of Residence
 
@@ -21,6 +21,6 @@
 * Computer Room, Library, Music Room
 * ATM facility and Minimarket within 5 min walking distance
 
-![alt text](/misc/pics/shr.jpg)
+![alt text](../pics/shr.jpg)
 
 #### Contact Numbers : ( To be Added )

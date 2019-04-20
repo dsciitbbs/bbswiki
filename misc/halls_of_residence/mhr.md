@@ -1,4 +1,4 @@
-[Back to Home](/index.md)
+[Back to Home](../../index.md)
 
 ## Mahanadi Hall of Residence
 
@@ -21,6 +21,6 @@
 * Washing Machine Facility
 * Computer Room,Music Room
 
-![alt text](/misc/pics/mhr.jpg)
+![alt text](../pics/mhr.jpg)
 
 #### Contact Numbers : ( To be Added )
