@@ -1,4 +1,4 @@
-[Back to Home](/index.md)
+[Back to Home](../../index.md)
 
 ## IITBBS Transit Hostel at NISER
 
@@ -19,6 +19,6 @@
 * Water purifiers cum coolers
 * Washing Machine Facility
 
-![alt text](/misc/pics/tn.jpg)
+![alt text](../pics/tn.jpg)
 
 #### Contact Numbers: ( To be Added )
